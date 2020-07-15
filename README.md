@@ -12,7 +12,7 @@ Allows users to keep their data private and only visible by them. Using firebase
      <td>Register Page</td>
   </tr>
   <tr>
-    <td><img src="screenshots/Login.PNG" width=270 height=480></td>
+    <td><img src="screenshots/Login.png" width=270 height=480></td>
     <td><img src="screenshots/Register.png" width=270 height=480></td>
   </tr>
  </table>
