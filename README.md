@@ -7,10 +7,12 @@ Expense Tracker allows user to track their incomes and expenses. User can update
 Allows users to keep their data private and only visible by them. Using firebase authentication, users can login the app with their registered email and password. Register page allows user to create a new account and start tracking their expenses.
 
 
-<p float="left">
-    <img src="screenshots/Login.png" width="270" height="480"/>
-    <img src="screenshots/Register.png" width=270 height=480/>
-</p>
+.pull-left[
+<img src="screenshots/Login.png" width=270 height=480/>
+ ]
+ .pull-right[
+ <img src="screenshots/Register.png" width=270 height=480/>
+]
 
 # Dashboard Activities
 
